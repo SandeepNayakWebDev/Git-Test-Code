@@ -1,4 +1,4 @@
-# GIT COMMNADS
+# GIT COMMANDS
 ### git init
 ### git add index1.js  
 ### git status
